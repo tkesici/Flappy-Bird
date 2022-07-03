@@ -3,7 +3,7 @@
 It's a classic Flappy Bird project. Made with using C# language and Unity game engine.
 <br>
 
-Example pictures:
+Example views:
 
 
 ![flappy1](https://user-images.githubusercontent.com/72649005/162223916-f03abcdf-b7a3-4ba3-838c-d29a37b42991.png)
